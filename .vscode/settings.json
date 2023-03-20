@@ -1,0 +1,39 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "eslint.format.enable": true,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "files.eol": "\n",
+    "editor.formatOnSave": false,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "razor": "html",
+      "plaintext": "pug"
+    },
+    "editor.snippetSuggestions": "top",
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+  
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
+  
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.quickSuggestionsDelay": 10,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.tabCompletion": "off",
+    "editor.suggest.localityBonus": true,
+    "editor.suggestSelection": "first",
+    "editor.wordBasedSuggestions": true,
+    "editor.parameterHints.enabled": true,
+  
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+  }
